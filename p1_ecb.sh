@@ -1,0 +1,1 @@
+openssl enc -aes-256-ecb -e -in sample_img.bmp -out sample_ECB.bmp -K 8F88C32562DE3027A6B7B027A1CAC0C2D6736A8934F6E422E40B592E9BC8A44C
